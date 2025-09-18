@@ -1,6 +1,7 @@
 import { configureStore } from '@reduxjs/toolkit';
 import cartReducer from './cartSlice';
-import { loadCartFromStorage, saveCartToStorage } from '@/utils/localStorage';
+import { saveCartToStorage } from '@/utils/localStorage';
+import categoryReducer from './categorySlice';
 
 // Middleware to persist cart to localStorage
 const localStorageMiddleware = (store: any) => (next: any) => (action: any) => {
@@ -18,6 +19,7 @@ const localStorageMiddleware = (store: any) => (next: any) => (action: any) => {
 export const store = configureStore({
   reducer: {
     cart: cartReducer,
+    category: categoryReducer,
   },
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware().concat(localStorageMiddleware),

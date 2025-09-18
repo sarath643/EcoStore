@@ -80,7 +80,7 @@ A modern, responsive ecommerce application built with Next.js 14, TypeScript, an
 1. **Clone the repository**
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/sarath643/EcoStore
 cd ecommerce-app
 ```
 
@@ -344,7 +344,7 @@ This project demonstrates:
 
 ## 🤝 Contact
 
-**[Your Name]**
+** Sarath Surendran **
 
 - Email: [\[your-email\]]sarathsurendran0643@gmail.com
 - LinkedIn: [\[your-linkedin-profile\]](https://www.linkedin.com/in/sarath-surendran-596916320/)
