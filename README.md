@@ -4,7 +4,7 @@ A modern, responsive ecommerce application built with Next.js 14, TypeScript, an
 
 ## 🚀 Live Demo
 
-[\[Add your deployed link here\]](https://eco-store-henna.vercel.app/)
+[EcoStore](https://eco-store-henna.vercel.app/)
 
 ## 📋 Table of Contents
 
@@ -346,9 +346,9 @@ This project demonstrates:
 
 ** Sarath Surendran **
 
-- Email: [\[your-email\]]sarathsurendran0643@gmail.com
-- LinkedIn: [\[your-linkedin-profile\]](https://www.linkedin.com/in/sarath-surendran-596916320/)
-- GitHub: [\[your-github-username\]](https://github.com/sarath643/)
+- 📧 Email: [sarathsurendran0643@gmail.com](mailto:sarathsurendran0643@gmail.com)
+- 💼 LinkedIn: [Sarath Surendran](https://www.linkedin.com/in/sarath-surendran-596916320/)
+- 🐙 GitHub: [sarath643](https://github.com/sarath643)
 
 ---
 
