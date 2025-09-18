@@ -4,7 +4,7 @@ A modern, responsive ecommerce application built with Next.js 14, TypeScript, an
 
 ## 🚀 Live Demo
 
-[Add your deployed link here]
+[\[Add your deployed link here\]](https://eco-store-henna.vercel.app/)
 
 ## 📋 Table of Contents
 
